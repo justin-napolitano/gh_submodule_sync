@@ -1,12 +1,4 @@
-+++
-title =  "Sync Gh Submodules Across a Super Project"
-description = "Make documentation easier. Use modules for each script"
-author = "Justin Napolitano"
-tags = ['python', "bash","programming","github"]
-images = ["images/feature-image.png"]
-+++
-
-<!-- # Sync Submodules Script -->
+# Sync Submodules Script
 
 ## Overview
 
