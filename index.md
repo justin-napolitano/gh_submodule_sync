@@ -4,6 +4,7 @@ description = "Make documentation easier. Use modules for each script"
 author = "Justin Napolitano"
 tags = ['python', "bash","programming","github"]
 images = ["images/feature-image.png"]
+date = "2024-06-27"
 +++
 
 <!-- # Sync Submodules Script -->
