@@ -8,19 +8,19 @@ generatedAt: '2025-11-24T21:34:56.809Z'
 source: github-auto
 summary: >-
   Learn how to use gh_submodule_sync to automate Git submodule initialization
-  and updates in your repositories.
+  and updates efficiently.
 tags:
   - git
   - submodules
   - bash
   - shell scripting
-seoPrimaryKeyword: git submodule automation
+  - scripting
+seoPrimaryKeyword: github submodule automation
 seoSecondaryKeywords:
   - git submodule sync
   - bash script for git
   - automate git submodules
   - git repository management
-  - submodule update script
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
