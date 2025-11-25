@@ -1,16 +1,27 @@
 ---
 slug: github-gh-submodule-sync
 id: github-gh-submodule-sync
-title: gh_submodule_sync
+title: Automate Git Submodule Management with gh_submodule_sync
 repo: justin-napolitano/gh_submodule_sync
 githubUrl: https://github.com/justin-napolitano/gh_submodule_sync
 generatedAt: '2025-11-24T21:34:56.809Z'
 source: github-auto
-summary: '## Overview'
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+summary: >-
+  Learn how to use gh_submodule_sync to automate Git submodule initialization
+  and updates in your repositories.
+tags:
+  - git
+  - submodules
+  - bash
+  - shell scripting
+seoPrimaryKeyword: git submodule automation
+seoSecondaryKeywords:
+  - git submodule sync
+  - bash script for git
+  - automate git submodules
+  - git repository management
+  - submodule update script
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
