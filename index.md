@@ -1,30 +1,37 @@
 ---
 slug: github-gh-submodule-sync
-title: Automating Recursive Git Submodule Synchronization with gh_submodule_sync
+title: Automate Git Submodule Syncing with a Bash Script
 repo: justin-napolitano/gh_submodule_sync
 githubUrl: https://github.com/justin-napolitano/gh_submodule_sync
 generatedAt: '2025-11-23T09:02:13.046953Z'
 source: github-auto
 summary: >-
-  Bash script automates initialization and recursive updates of Git submodules to latest remote
-  commits, ensuring consistent submodule states.
+  This guide covers a Bash script to automate the initialization and updating of
+  Git submodules across a super project.
 tags:
   - git
   - git-submodules
   - bash-script
   - version-control
+  - bash
+  - submodules
 seoPrimaryKeyword: git submodule synchronization
 seoSecondaryKeywords:
-  - recursive submodule update
-  - gh_submodule_sync
-  - git submodule initialization
+  - git submodule update
+  - bash script for git
+  - automate git tasks
+  - nested submodules
+  - git repository management
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post is about a Bash script automating recursive Git submodule synchronization, which aligns
-  perfectly with the 'Automation' family focused on automating git workflows. The example slugs
-  include this post itself, confirming relevance.
+  The post is about a Bash script automating recursive Git submodule
+  synchronization, which aligns perfectly with the 'Automation' family focused
+  on automating git workflows. The example slugs include this post itself,
+  confirming relevance.
+kind: project
+id: github-gh-submodule-sync
 ---
 
 # Syncing Git Submodules Across a Super Project
